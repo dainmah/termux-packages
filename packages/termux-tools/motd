@@ -18,5 +18,4 @@ Subscribing to additional repositories:
  * Unstable: pkg install unstable-repo
  * X11:      pkg install x11-repo
 
-Report issues at https://termux.com/issues
-
+Report issues at https://termux.com/issue
